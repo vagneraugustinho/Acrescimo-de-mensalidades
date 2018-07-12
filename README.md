@@ -3,7 +3,7 @@
 ### Objetivo:
 Calcular o valor total a ser pago, se mensalidades "boletos" estivem com atrasos.
 
-# Em desenvolvimento, erros ou ausência de funcionalidades podem ser encontrados!
+# <p>Em fase de desenvolvimento, erros ou ausência de funcionalidades podem ser encontrados!</p>
 
 ### Ferramentas: HTML, CSS, Jquery e Bootstrap 4.1.
 ![acrescimo de mensalidades](https://user-images.githubusercontent.com/14083262/42649686-b7d64de2-85e0-11e8-876f-3fa3eae1cc4c.JPG)
